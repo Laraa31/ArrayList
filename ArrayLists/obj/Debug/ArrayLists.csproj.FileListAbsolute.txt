@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ArrayLists\bin\Debug\ArrayLists.exe.config
+C:\Users\ucenik\source\repos\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\ucenik\source\repos\ArrayLists\bin\Debug\ArrayLists.pdb
+C:\Users\ucenik\source\repos\ArrayLists\obj\Debug\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ArrayLists\obj\Debug\ArrayLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ArrayLists\obj\Debug\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ArrayLists\obj\Debug\ArrayLists.exe
+C:\Users\ucenik\source\repos\ArrayLists\obj\Debug\ArrayLists.pdb
